@@ -1,2 +1,10 @@
-# Java2Smali
-Simple Apk Dev Tool For Convert Java to Smali &amp; Smali to Java 
+# LMNx9 Java2Smali v1.0
+
+- Convert Java to Smali
+- Convert Smali to Java
+
+- Developer : [DARK LMNx9](https://t.me/x_LMNx9)
+- Telegram : [Join Now](https://t.me/TEAM_LMNx9)
+
+![](https://raw.githubusercontent.com/LMNx9-JOHNY/Java2Smali/refs/heads/main/Java2Smali.png)
+
